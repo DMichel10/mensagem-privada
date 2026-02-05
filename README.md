@@ -1,1 +1,1 @@
-# EU AMO VOCÊ!
+# Leia só quando estiver precisando
