@@ -1,6 +1,1 @@
-# Talvez você nem precise ler isso agora, mas eu precisava escrever.
-# Eu sei que tem dias em que tudo pesa, em que parece não ter fim, em que a esperança fica pequena. Mesmo assim, não deixa o mundo apagar o brilho dos seus olhos. Eu conheço esse brilho. Conheço o seu sorriso leve, a sua conversa boba, o seu jeito de enxergar luz até quando tudo parece nublado.
-# A esperança só faz sentido quando caminha junto da fé — daquela fé que a gente não vê, mas sente. As coisas parecem maiores porque o cansaço também está. Mas você já reparou em tudo o que venceu? Nas pequenas conquistas, nas grandes também? Elas dizem muito sobre quem você é.
-# Eu acredito em você! Acredite em você. Acredite de verdade. Com tudo o que existe nesse coração. As coisas vão se ajeitar, eu sei que vão. Mas, mais do que eu precisar disso, você precisa acreditar.
-# Você é forte, sempre foi. Tomou decisões difíceis, segurou firme quando parecia impossível. Só não confunde força com carregar tudo sozinha, tá? Você não precisa. Eu estou aqui. Mesmo quando você finge que não precisa, mesmo quando essa cabecinha dura insiste em dizer que dá conta sozinha.
-# Eu talvez escreva simples, mas o que sinto é grande. E eu estarei sempre aqui para te lembrar que você é especial, que merece tudo de bom e que, enquanto eu puder, você nunca vai perder a esperança nem a fé.
+
