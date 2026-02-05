@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Mensagem privada</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #e5e7eb;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .box {
+      background: #020617;
+      padding: 30px;
+      border-radius: 10px;
+      max-width: 400px;
+      text-align: center;
+    }
+    input, button {
+      padding: 10px;
+      width: 100%;
+      margin-top: 10px;
+      border-radius: 5px;
+      border: none;
+    }
+    button {
+      background: #2563eb;
+      color: white;
+      cursor: pointer;
+    }
+    #mensagem {
+      display: none;
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="box">
+  <h2>🔐 Mensagem privada</h2>
+  <p>Digite a senha para visualizar</p>
+
+  <input type="password" id="senha" placeholder="Senha">
+  <button onclick="verificar()">Acessar</button>
+
+  <div id="mensagem">
+    <p>💌 Leia só quando estiver precisando.</p>
+  </div>
+</div>
+
+<script>
+  const senhaCorreta = "211223"; // ← MUDE A SENHA AQUI
+
+  function verificar() {
+    const senha = document.getElementById("senha").value;
+    if (senha === senhaCorreta) {
+      document.getElementById("mensagem").style.display = "block";
+    } else {
+      alert("Senha incorreta ❌");
+    }
+  }
+</script>
+
+</body>
+</html>
